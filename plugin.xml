@@ -10,8 +10,8 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 <author>Liming Xie</author>
 <license>MIT</license>
 <keywords>httpd,web,server,http</keywords>
-<repo>https://github.com/floatinghotpot/cordova-httpd.git</repo>
-<issue>https://github.com/floatinghotpot/cordova-httpd/issues</issue>
+<repo>https://github.com/leighwoltman/cordova-httpd.git</repo>
+<issue>https://github.com/leighwoltman/cordova-httpd/issues</issue>
 
 <engines>
     <engine name="cordova" version=">=2.9" />
